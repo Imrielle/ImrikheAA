@@ -1,0 +1,5 @@
+[
+	{ "op": "add", "path": "/defaultBlueprints/tier1/-", "value": {"item": "kheAA_pump_densium"} },
+	{ "op": "add", "path": "/defaultBlueprints/tier1/-", "value": {"item": "kheAA_pump_iron"} },
+	{ "op": "add", "path": "/defaultBlueprints/tier1/-", "value": {"item": "kheAA_pump_titanium"} }
+]
